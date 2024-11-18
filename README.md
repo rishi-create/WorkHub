@@ -1,6 +1,7 @@
-# What inside? <br/> <sub> https://28-jotion-clone.vercel.app/ </sub>
+# What inside? <br/> <sub> [https://28-jotion-clone.vercel.app/](https://work-qo3cgweye-rishi-sodanis-projects.vercel.app/) </sub>
 
-![work in progress](https://i.imgur.com/cW9GVNg.png)
+![image](https://github.com/user-attachments/assets/00c9c41c-8a40-41c4-ba31-2ece5a4a95d3)
+
 
 <br/>
 <br/>
